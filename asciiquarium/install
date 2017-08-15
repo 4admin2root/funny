@@ -1,0 +1,8 @@
+wget http://www.robobunny.com/projects/asciiquarium/asciiquarium.tar.gz
+tar -xvf asciiquarium.tar.gz
+yum install perl-CPAN
+yum install ncurses-devel
+cpan install Term::Animation
+cd asciiquarium_1.1
+chmod +x asciiquarium
+./asciiquarium
