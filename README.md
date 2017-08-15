@@ -1,0 +1,2 @@
+# funny
+something funny
