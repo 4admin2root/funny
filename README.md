@@ -5,6 +5,7 @@ something funny
 ### aview - A high quality ASCII art image viewer
 ### banner - prints a short string to the console in very large letters
 ### bb - an ASCII-art demo
+### cacademo, cacafire - libcaca's demonstration applications
 ### cal - display a calendar
 ### CMatrix - simulates the display from "The Matrix"
 ### cowsay/cowthink - configurable speaking/thinking cow (and a bit more)
@@ -21,3 +22,4 @@ something funny
 ### TOIlet - display large colourful characters
 ### TPP - Text Presentation Program
 ### yes - output a string repeatedly until killed
+## website : include some funny websites
