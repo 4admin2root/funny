@@ -5,6 +5,7 @@ something funny
 ### aview - A high quality ASCII art image viewer
 ### banner - prints a short string to the console in very large letters
 ### bb - an ASCII-art demo
+### boxes - text mode box and comment drawing filter
 ### cacademo, cacafire - libcaca's demonstration applications
 ### cal - display a calendar
 ### CMatrix - simulates the display from "The Matrix"
