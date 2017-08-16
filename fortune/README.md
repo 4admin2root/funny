@@ -1,3 +1,4 @@
 # fortune
-# fortune
-# fortune
+## usage:
+  fortune-zh
+  fortune

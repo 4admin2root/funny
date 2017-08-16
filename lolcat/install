@@ -1,0 +1,3 @@
+yum install rubygems
+gem install paint
+gem install lolcat

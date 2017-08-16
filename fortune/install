@@ -1,0 +1,3 @@
+sudo apt-get install fortune
+sudo apt-get install fortune-zh
+# yum install fortune-mod -y
