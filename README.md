@@ -14,10 +14,10 @@ something funny
 ### jp2a -Convert files or URLs from JPEG format to ASCII.
 ### lynx - a general purpose distributed information browser for the World Wide Web
 ### pv - monitor the progress of data through a pipe
-### mplayer
-### rig
+### mplayer - movie player
+### RIG - Random Identity Generator
 ### shred - overwrite a file to hide its contents, and optionally delete it
 ### sl - cure your bad habit of mistyping
-### toilet
-### tpp
+### TOIlet - display large colourful characters
+### TPP - Text Presentation Program
 ### yes - output a string repeatedly until killed
